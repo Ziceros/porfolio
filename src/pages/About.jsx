@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Award, Briefcase, GraduationCap, Heart, MapPin, Globe, Code } from 'lucide-react';
+import { Award, GraduationCap, Heart, MapPin, Code } from 'lucide-react';
 import SectionReveal from '../components/SectionReveal';
 import kenPhoto from '../assets/ken.png';
 
